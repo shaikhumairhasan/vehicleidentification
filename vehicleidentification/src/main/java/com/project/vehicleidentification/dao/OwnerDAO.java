@@ -1,4 +1,4 @@
-package com.project.vehicleidentification.controller.dao;
+package com.project.vehicleidentification.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
