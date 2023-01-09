@@ -1,17 +1,17 @@
 # vehicleidentification
-Vehicle Identification is a website project that lets you search about the owner and vehicle details by either entering the vehicle registration number or by uploading an image of the vehicle's license plate.
+**Vehicle Identification** is a website project that lets you search about the owner and vehicle details by either entering the vehicle registration number or by *uploading an image of the vehicle's license plate.*
 
-It also offers additional functionality by providing an Admin login.
-The Admin, after signing-in, can perform operations like Adding, Updating, Deleting and Listing all owner and vehicle details.
+It also offers additional functionality by providing an **Admin login.**
+The Admin, after signing-in, can perform operations like **Adding, Updating, Deleting and Listing all owner and vehicle details**.
 
-Technologies used:
+**Technologies used:**
 
-1. Front-end: HTML, CSS, JavaSript, Bootstrap, Thymeleaf.
+**1. Front-end:** HTML, CSS, JavaSript, Bootstrap, Thymeleaf.
 
-2. Back-end: Java, Spring Boot, Spring Security, Spring Data JPA.
+**2. Back-end:** Java, Spring Boot, Spring Security, Spring Data JPA.
 
-3. Tools used: Spring Tool Suite, Maven, Spring Boot Devtools, MySQL Workbench.
+**3. Tools used:** Spring Tool Suite, Maven, Spring Boot Devtools, MySQL Workbench.
 
-4. Tess4j library used for performing Optical Character Recognition (OCR).
+**4. Tess4j** library used for performing Optical Character Recognition (OCR).
 
-5. Database: MySQL 8.
+**5. Database:** MySQL 8.
