@@ -8,6 +8,8 @@ This has been made possible due to **Tesseract**, which is an **Optical Characte
 The Vehicle Identification project also offers additional functionality by providing an **Admin login.**
 The Admin, after signing-in, can perform operations like **Adding, Updating, Deleting and Listing all owner and vehicle details**.
 
+<br>
+
 ## Technologies used :
 
 **1. Front-end:** HTML, CSS, JavaSript, Bootstrap, Thymeleaf.
@@ -19,6 +21,8 @@ The Admin, after signing-in, can perform operations like **Adding, Updating, Del
 **4. Tess4j** library used for performing Optical Character Recognition (OCR).
 
 **5. Database:** MySQL 8.
+
+<br>
 
 ## Screenshots of the project :
 
