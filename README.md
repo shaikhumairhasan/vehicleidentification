@@ -5,7 +5,7 @@ The distinct feature of this project is that it utilizes the power of **Artifici
 
 This has been made possible due to **Tesseract**, which is an **Optical Character Recognition (OCR)** engine with open-source code.
 
-It also offers additional functionality by providing an **Admin login.**
+This Vehicle Identification project also offers additional functionality by providing an **Admin login.**
 The Admin, after signing-in, can perform operations like **Adding, Updating, Deleting and Listing all owner and vehicle details**.
 
 ## Technologies used:
