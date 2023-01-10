@@ -1,4 +1,4 @@
-# Vehicle identification
+# Vehicle Identification
 **Vehicle Identification** is a full stack web application that lets you search about the owner and vehicle details by either entering the vehicle registration number or by ***uploading an image of the vehicle's license plate.***
 
 The distinct feature of this project is that it utilizes the power of **Artificial Intelligence (AI)** for reading the text from the images uploaded by user. It then searches for vehicle's registration number within that text and if found, it fetches the information associated with the registration number from the database.
