@@ -58,7 +58,7 @@ The Admin, after signing-in, can perform operations like **Adding, Updating, Del
 
 + **ADD NEW OWNER & VEHICLE DETAILS**
 
-![Screenshot (184)](https://user-images.githubusercontent.com/121372035/219444301-46eaf43d-f88c-412c-b346-3babb10cdf94.png)
+![Add](https://user-images.githubusercontent.com/121372035/219445291-1dd017f6-4735-4935-878b-a6140a91cd38.jpeg)
 
 <br>
 
