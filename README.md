@@ -12,7 +12,7 @@ The Admin, after signing-in, can perform operations like **Adding, Updating, Del
 
 ## Technologies used :
 
-**1. Front-end:** HTML, CSS, JavaSript, Bootstrap, Thymeleaf.
+**1. Front-end:** HTML, CSS, JavaScript, Bootstrap, Thymeleaf.
 
 **2. Back-end:** Java, Spring Boot, Spring Security, Spring Data JPA.
 
